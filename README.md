@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @navindra-bit
-- 👀 I’m interested in nothing
+- 👀 I’m interested in everything. 
 - 🌱 I’m currently learning everthing.
-- 📫 Don't reach me ...
+- 📫 ........
 
 <!---
 navindra-bit/navindra-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
